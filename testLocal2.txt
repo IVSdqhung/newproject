@@ -1,0 +1,14 @@
+Trúc:
+Firebase Hosting:
+- OK
+Firebase Auth:
+- 
+Firebase Function:
+- 
+
+
+Dương:
+Cloud Firestore
+Cloud ....
+
+Update form internet
