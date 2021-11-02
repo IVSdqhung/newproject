@@ -10,3 +10,5 @@ Firebase Function:
 Dương:
 Cloud Firestore
 Cloud ....
+
+Update form internet
